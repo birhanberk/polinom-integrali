@@ -1,4 +1,4 @@
-# Birhan Berk Oktay - 170401075
+# Birhan Berk Oktay
 
 # Bu Python kodu birdenAltinciDereceyeKadar isimli fonksiyonun cagirilmasiyla calisir.
 # Ayni dizinde bulunmasi gereken veriler.txt dosyasindan veri okur.
